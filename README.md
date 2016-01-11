@@ -22,6 +22,9 @@
 
    chapter 3
    >課堂練習
+   >>歸檔
+   >>>Chapter 03-re
+   
    >>未歸檔
    >>>Chapter 03-1
    
