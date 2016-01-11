@@ -1,5 +1,4 @@
-#10401
-#計算機概論實習
+#104-01 計算機概論實習
 #Introducing PYTHON
 
    chapter 1
